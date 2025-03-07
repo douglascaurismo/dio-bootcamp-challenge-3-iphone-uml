@@ -19,7 +19,7 @@ Coloquei também a implementação iPhone em um pacote isolado. Assim tem espaç
   call(String number), accept(), startVoiceMail()
 
 > Browser\
-  showPage(String url), addTab(), atualizarPagina()
+  showPage(String url), addTab(), reload()
 
 
 ### Interfaces
